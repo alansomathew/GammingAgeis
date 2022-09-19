@@ -1,0 +1,24 @@
+SMAP
+tournamentlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 tournamentlist.jsp
+WebView/tournamentlist.jsp
+*L
+5,7:45
+12:52,10
+13,8:62
+21,11:71
+31,6:82
+37,15:89
+51,2:104
+53,8:106,3
+61,4:130
+65,13:135
+77,2:148
+79,9:150,3
+88,4:177
+92,9:182
+100,8:191
+*E

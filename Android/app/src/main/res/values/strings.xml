@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Gaming Ageis</string>
+    <string name="username">Username</string>
+    <string name="hello_student_welcome_back">Hello Player, Welcome Back</string>
+    <string name="sign_to_continue">Sign to continue</string>
+    <string name="todo">TODO</string>
+    <string name="Password" />
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+
+    <string-array name="name">
+
+        <item>User1</item>
+        <item>User2</item>
+        <item>User3</item>
+        <item>User4</item>
+        <item>User5</item>
+        <item>User6</item>
+        <item>User7</item>
+        <item>User8</item>
+        <item>User9</item>
+        <item>User10</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="gender">
+
+
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+
+
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".SplashScreen">
+
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="336dp"
+        android:layout_height="336dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:transitionName="logo_name"
+        android:background="@drawable/logo2" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:fontFamily="@font/bungee"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:transitionName="logo_text"
+        android:text="Gaming Ageis"
+        android:textColor="#000000"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="28dp"
+        android:fontFamily="@font/chewy"
+        android:gravity="center"
+        android:paddingLeft="90dp"
+        android:shadowColor="#FFFFFF"
+        android:shadowDx="100"
+        android:shadowDy="100"
+        android:text="for players"
+        android:textColor="#750707"
+        android:textSize="18dp"
+        android:visibility="visible" />
+
+
+</LinearLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Name"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Date"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Mode"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Slot"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="49dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="ID"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv6"
+        android:layout_width="66dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Pass"
+        android:textSize="15sp" />
+
+
+
+</LinearLayout>

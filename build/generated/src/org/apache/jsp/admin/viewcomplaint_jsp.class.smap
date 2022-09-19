@@ -1,0 +1,32 @@
+SMAP
+viewcomplaint_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewcomplaint.jsp
+admin/viewcomplaint.jsp
++ 1 Head.jsp
+admin/Head.jsp
++ 2 Foot.jsp
+admin/Foot.jsp
+*L
+5,7:51
+12:58,10
+13,4:68
+1#1,145:72
+16#0,4:217
+20,9:222
+28,4:231
+32:236,2
+33,11:238
+44,10:250
+53,2:260
+55,4:262,3
+59:274
+60:275,3
+61,3:278
+65,2:283
+66,6:285
+1#2,24:291
+71#0,3:314
+*E
